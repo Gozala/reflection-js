@@ -1,0 +1,32 @@
+{
+  "name": "reflection",
+  "id": "reflection",
+  "version": "0.0.1",
+  "description": "JS reflection APIs",
+  "keywords": [ "reflection" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/reflection",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/reflection.git",
+    "web": "https://github.com/Gozala/reflection"
+  },
+  "bugs": {
+    "url": "http://github.com/Gozala/reflection/issues/"
+  },
+  "devDependencies": {
+    "test": ">=0.4.4",
+    "repl-utils": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "scripts": {
+    "test": "node tests/test-all.js",
+    "repl": "node node_modules/repl-utils"
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "http://jeditoolkit.com/LICENSE"
+  }]
+}
