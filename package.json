@@ -5,14 +5,14 @@
   "description": "JS reflection APIs",
   "keywords": [ "reflection" ],
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
-  "homepage": "https://github.com/Gozala/reflection",
+  "homepage": "https://github.com/Gozala/reflection-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gozala/reflection.git",
-    "web": "https://github.com/Gozala/reflection"
+    "url": "https://github.com/Gozala/reflection-js.git",
+    "web": "https://github.com/Gozala/reflection-js"
   },
   "bugs": {
-    "url": "http://github.com/Gozala/reflection/issues/"
+    "url": "http://github.com/Gozala/reflection-js/issues/"
   },
   "devDependencies": {
     "test": ">=0.4.4",
